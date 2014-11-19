@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{9794B609-D411-2657-D925-5971FE96ABB3}</ProjectGuid>
+	<ProjectGuid>{E7E67448-E0FD-8AF1-EEC8-83003C0AE5A3}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -55,16 +55,16 @@
      <None Include="Assets\DOTween\readme.txt" />
      <None Include="Assets\DOTween\DOTween43.xml" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>/Users/mikelu/New Unity Project 1/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>/Users/mikelu/Pitch/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>/Users/mikelu/New Unity Project 1/Assets/DOTween/DOTween.dll</HintPath>
+ <HintPath>/Users/mikelu/Pitch/Assets/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>/Users/mikelu/New Unity Project 1/Assets/DOTween/DOTween43.dll</HintPath>
+ <HintPath>/Users/mikelu/Pitch/Assets/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenEditor">
- <HintPath>/Users/mikelu/New Unity Project 1/Assets/DOTween/Editor/DOTweenEditor.dll</HintPath>
+ <HintPath>/Users/mikelu/Pitch/Assets/DOTween/Editor/DOTweenEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -72,7 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{FC9411EB-1B12-4154-0219-EEA7CBD09863}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{E81D851F-F426-ECB8-8615-41E9027CE225}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
